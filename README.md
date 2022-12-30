@@ -4,10 +4,11 @@
 This is a Java-Based Sudoku Solver that solves any 3x3 board. If an impossible board is inputted, the program will not compute it, and will prompt the user that it is an unsolvable board. Version 1.0.0 is text-based. This program uses recursive methods to solve the board correctly. I have included comments within the java project files to explain how it works.
 
 # Table of Contents
-* [Overview](#Overview)
-* [Versions](#Versions)
-* [Installation](#Installation)
-* [Updates](#Updates)
+* [Overview](https://github.com/NavPilDev/Sudoku-Solver/edit/main/README.md#overview-)
+* [Versions](https://github.com/NavPilDev/Sudoku-Solver/edit/main/README.md#versions-)
+* [Installation](https://github.com/NavPilDev/Sudoku-Solver/edit/main/README.md#installation-)
+* [Using Solver](https://github.com/NavPilDev/Sudoku-Solver/edit/main/README.md#using-the-solver)
+* [Updates](https://github.com/NavPilDev/Sudoku-Solver/edit/main/README.md#updates-to-come-)
 
 # Versions <a name="Versions"></a>
 ### <ins>Version 1.0.0</ins> - Abhinav Pillai 12/29/2022 
