@@ -7,7 +7,7 @@ This is a Java-Based Sudoku Solver that solves any 3x3 board. If an impossible b
 * [Overview](#Overview)
 * [Versions](#Versions)
 * [Installation](#Installation)
-*
+* [Updates](#Updates)
 
 # Versions <a name="Versions"></a>
 ### <ins>Version 1.0.0</ins> - Abhinav Pillai 12/29/2022 
@@ -56,6 +56,16 @@ Enjoy :)
 
 # Using the Solver
 The solver will prompt you to enter in the lines one by one, entering zeroes for empty blocks/spaces. 
+![alt text](https://github.com/NavPilDev/Sudoku-Solver/blob/main/Images/EnterRows.png) <br />
+The solver will then output a sudoku board with the rows you inputted <br />
+![alt text](https://github.com/NavPilDev/Sudoku-Solver/blob/main/Images/SudokuBoard.png) <br />
+The solver will then, in the backend, solve the board, and then in the front end output the board with the solved numbers. <br />
+![alt text](https://github.com/NavPilDev/Sudoku-Solver/blob/main/Images/SolvedSuccesfully.png) <br />
+* If the sudoku board is not solvable, the solver will output that the sudoku board is unsolvable <br />
 
 
 ![alt text](https://github.com/NavPilDev/Sudoku-Solver/blob/main/SudokuSolverBanners/PlannedUpdates.jpg?raw=true)
+## Updates to Come <a name="Updates"></a>
+* #### Update program with JavaFx for better visual experience
+* #### Make a web version that would run on my website
+* #### Make the solver solve for more types of boards
