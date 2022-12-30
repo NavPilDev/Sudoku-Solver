@@ -13,6 +13,10 @@ This is a Java-Based Sudoku Solver that solves any 3x3 board. If an impossible b
 ### <ins>Version 1.0.0</ins> - Abhinav Pillai 12/29/2022 
 This is the first version of the Sudoku Solver, and will be updated according to the plans in planned updates.
 
+
+
+![alt text](https://github.com/NavPilDev/Sudoku-Solver/blob/main/SudokuSolverBanners/HowToUseBanner.jpg?raw=true)
+
 # Installation <a name="Installation"></a>
 There are 2 ways currently to use this program.
 
@@ -50,6 +54,8 @@ Importing the project may depend on the IDE you use so I have left some tutorial
 
 Enjoy :)
 
-![alt text](https://github.com/NavPilDev/Sudoku-Solver/blob/main/SudokuSolverBanners/HowToUseBanner.jpg?raw=true)
+# Using the Solver
+The solver will prompt you to enter in the lines one by one, entering zeroes for empty blocks/spaces. 
+
 
 ![alt text](https://github.com/NavPilDev/Sudoku-Solver/blob/main/SudokuSolverBanners/PlannedUpdates.jpg?raw=true)
